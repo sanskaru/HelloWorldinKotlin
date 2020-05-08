@@ -10,6 +10,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         val textView = findViewById<TextView>(R.id.textView)
-        textView.setText("Hello World, in Kotlin tho")
+        textView.setText("Happy birthday to someone")
     }
 }
